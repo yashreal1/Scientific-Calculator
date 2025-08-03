@@ -40,7 +40,7 @@ Hey there! 👋 I'm excited to share my Scientific Calculator project with you. 
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/scientific-calculator.git
+   git clone https://github.com/yashreal1/scientific-calculator.git
    ```
 2. Navigate to the project directory:
    ```bash
